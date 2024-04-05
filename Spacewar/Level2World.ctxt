@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Level2World
+comment1.params=score\ fragments
+comment1.target=Level2World(int,\ int)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ spawnAlienSpaceships()
+comment4.params=
+comment4.target=void\ showObjective()
+comment5.params=amount
+comment5.target=void\ increaseFragments(int)
+comment6.params=
+comment6.target=void\ showFragments()
+comment7.params=points
+comment7.target=void\ increaseScore(int)
+comment8.params=
+comment8.target=void\ showScore()
+numComments=9

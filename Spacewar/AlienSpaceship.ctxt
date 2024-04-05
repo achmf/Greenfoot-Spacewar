@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AlienSpaceship
+comment1.params=world
+comment1.target=AlienSpaceship(Level2World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveRandomly()
+comment4.params=
+comment4.target=void\ checkEdge()
+comment5.params=
+comment5.target=void\ shoot()
+comment6.params=
+comment6.target=void\ checkCollision()
+numComments=7
